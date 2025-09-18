@@ -1,0 +1,6 @@
+Analisis Sementara
+
+1. Berdasarkan praktikum yang telah dilakukan, penggunaan dataset dari Kaggle yang terdiri dari data train dan data test yang terbagi ke dalam enam kelas berhasil diimplementasikan. 
+2. Program mampu mendeteksi gambar atau foto yang ditangkap oleh kamera perangkat secara real-time. Hal ini menunjukkan bahwa model CNN dapat dirunning. 
+3. Sistem dapat menampilkan hasil prediksi secara langsung dengan label kelas beserta nilai akurasinya. Fitur Night Vision berfungsi menampilkan frame alternatif yang dapat digunakan dalam kondisi pencahayaan rendah. 
+4. Namun, tingkat akurasi deteksi masih rendah karena jumlah epoch training hanya 5, karena tingkat akurasi sangat dipengaruhi oleh jumlah epoch dan kemampuan perangkat keras yang digunakan. 
